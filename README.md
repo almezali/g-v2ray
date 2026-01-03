@@ -364,9 +364,9 @@ When minimized, G-v2ray stays in system tray:
 ### Main Interface
 The main interface provides a clean and intuitive layout with profile management on the left and connection details on the right.
 
-<p align="center">
+
   ![Main Interface](https://github.com/almezali/g-v2ray/blob/main/Screenshot-n1.png)
-</p>
+
 
 **Features shown:**
 - Profile list with search functionality
@@ -378,9 +378,9 @@ The main interface provides a clean and intuitive layout with profile management
 ### Free Servers Discovery
 Automatically fetch and test free V2Ray servers from multiple sources with one click.
 
-<p align="center">
+
   ![Free Servers](https://github.com/almezali/g-v2ray/blob/main/Screenshot-n2.png)
-</p>
+
 
 **Features shown:**
 - Multiple server sources
